@@ -17,7 +17,7 @@ a {
 .logo img {
   margin-top: 50px;
   margin-left: 50px;
-  height: 30px;
+  height: auto;
   width: 200px;
 }
 
